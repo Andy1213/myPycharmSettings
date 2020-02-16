@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="qif" type="PLAIN_TEXT" />
       <mapping ext="20191027" type="PLAIN_TEXT" />
       <mapping ext="qxf" type="XML" />
     </extensionMap>
